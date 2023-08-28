@@ -1,0 +1,21 @@
+{
+  "name": "mahmoud-dahdouh-doubly-linked-list",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSD-0723/Mahmoud-Dahdouh-doubly-linked-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSD-0723/Mahmoud-Dahdouh-doubly-linked-list/issues"
+  },
+  "homepage": "https://github.com/JSD-0723/Mahmoud-Dahdouh-doubly-linked-list#readme",
+  "description": ""
+}
